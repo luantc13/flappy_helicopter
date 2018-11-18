@@ -1,0 +1,10 @@
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\bin\Debug\netstandard2.0\FlappyHelicopter.deps.json
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\bin\Debug\netstandard2.0\FlappyHelicopter.dll
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\obj\Debug\netstandard2.0\FlappyHelicopter.csprojAssemblyReference.cache
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\obj\Debug\netstandard2.0\FlappyHelicopter.csproj.CoreCompileInputs.cache
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\obj\Debug\netstandard2.0\FlappyHelicopter.AssemblyInfoInputs.cache
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\obj\Debug\netstandard2.0\FlappyHelicopter.AssemblyInfo.cs
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\bin\Debug\netstandard2.0\FlappyHelicopter.pdb
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\obj\Debug\netstandard2.0\FlappyHelicopter.dll
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\obj\Debug\netstandard2.0\FlappyHelicopter.pdb
+C:\Users\Hala Madrid\source\repos\FlappyHelicopter\FlappyHelicopter\FlappyHelicopter\obj\Debug\netstandard2.0\XamlC.stamp
